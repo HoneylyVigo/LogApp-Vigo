@@ -10,14 +10,14 @@ This repo is for Practice Set 5-06
 
 ### Visuals
 *Registration*
-![img1][registration](https://user-images.githubusercontent.com/124869709/232748575-29260811-0ac2-40ba-a9fe-c3b6982fc531.png)
+![img1](https://user-images.githubusercontent.com/124869709/232750681-9edde646-5c13-4928-8b73-464a211c232e.png)
 
 *Admin Login*
-![img1][adminlogin](https://user-images.githubusercontent.com/124869709/232748721-ca9fdc50-4dcc-4634-86f0-647513d05ba7.png)
+![img2](https://user-images.githubusercontent.com/124869709/232750762-6b3db49a-2b43-40dd-9dab-9fc09d2c4796.png)
 
 
 *Table of Data Collected from Registration*
-![img1][tabledata](https://user-images.githubusercontent.com/124869709/232748848-643ea1f4-44e1-4dc4-a826-37b7bd5de35e.png)
+![img3](https://user-images.githubusercontent.com/124869709/232750811-3bfb8bc5-f8bf-434b-a8ff-af7295087ecc.png)
 
 ### Installation
 *Preparation of database remotely using workbench or phpmyadmin*
